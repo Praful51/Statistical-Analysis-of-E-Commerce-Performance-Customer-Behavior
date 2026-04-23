@@ -73,7 +73,7 @@ Impact of delivery delay on ratings
 Average revenue by state
 High-value orders by payment method
 
-![dashboard](images/olist_db_ss.png)
+![dashboard](image/olist_db_ss.png)
 
 
 
