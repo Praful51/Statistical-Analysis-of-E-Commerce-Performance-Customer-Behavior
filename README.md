@@ -80,12 +80,15 @@ High-value orders by payment method
 **Key Insights:**
 
 - Delayed deliveries reduce customer ratings significantly
+  **Recommendation:** Operations and strategies should run to reduce delayed deliveries and improve delivery performance as they have a huge impact on customer
+  satisfaction
 
 - Revenue varies across regions, indicating market differences
+   **Recommendation:** Promote credit card usage through EMI options and targeted incentives.
 
-- Credit card payments dominate high-value transactions
-
-- Customer behavior is statistically dependent on payment methods
+- Credit card payments are the dominated payment type which are used highly for high value orders as well
+ as low value orders
+   **Recommendation:** Enable customer segmentation and personalized marketing based on payment preferences.
 
  **Conclusion**
 
